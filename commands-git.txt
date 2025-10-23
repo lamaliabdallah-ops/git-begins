@@ -1,1 +1,4 @@
- git commit -m "message" 
+ git clone https://github.com/nom_du_repository
+git add.
+git commit -m "message" 
+git push
