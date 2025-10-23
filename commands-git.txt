@@ -1,4 +1,5 @@
- git clone https://github.com/nom_du_repository
+git clone https://github.com/nom_du_repository
 git add.
 git commit -m "message" 
 git push
+git pull
