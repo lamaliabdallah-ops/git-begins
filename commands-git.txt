@@ -3,3 +3,5 @@ git add.
 git commit -m "message" 
 git push
 git pull
+git branch nom branch
+git switch nom branch
